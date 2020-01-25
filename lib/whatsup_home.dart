@@ -7,7 +7,7 @@ import 'package:whatsup/pages/status_screen.dart';
 
 class WhatsUpHome extends StatefulWidget {
   final List<CameraDescription> cameras;
-  WhatsUppHome({this.cameras});
+  WhatsUpHome({this.cameras});
 
   @override
   _WhatsUpHomeState createState() => _WhatsUpHomeState();
