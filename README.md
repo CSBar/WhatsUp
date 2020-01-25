@@ -4,4 +4,4 @@ WhatsUp is a cross-platform messaging app. It allows users to send text messages
 
 ## Features To Have In App
 
--[] 
+[ ] 
