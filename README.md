@@ -8,9 +8,9 @@ WhatsUp is a cross-platform messaging app. It allows users to send text messages
 - [ ] SignUp With Either Email, FaceBook, Twitter or Github
 ## Features To Have In App (For Web and Desktop)
 - [ ] Let Users Share Code 
-- [ ] Have A Build In Code Editor Where you are able to run the code. 
+- [ ] Have A Build In Code Editor where you are able to run the code. 
 - [ ] SignUp With Either Email, FaceBook, Twitter or Github
 
-## Cross-Platform 
+## Cross-Platform
 
 Have This Service Available for Web, App and Desktop. 
